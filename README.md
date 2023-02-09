@@ -1,2 +1,3 @@
-# tuceai
-Tulane Center for Community-Engaged Artificial Intelligence Webiste
+# Repoisitory for Tulane Center for Community-Engaged Artificial Intelligence
+
+For the full website please visit: 
