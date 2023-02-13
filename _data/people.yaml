@@ -1,0 +1,35 @@
+pis1:
+- name: Aron Culotta
+  desc: Center Director, Associate Professor of Computer Science
+  interests: bias in machine learning, natural language processing, causal modeling, computational social science
+  img: ../img/culotta.jpg
+  website: https://cs.tulane.edu/~aculotta
+- name: Alessandra Bazzanno
+  desc: Associate Professor of Social, Behavioral & Population Sciences
+  interests: health equity, community based participatory research, human-centered design
+  img: ../img/bazzanno.jpg
+  website: https://sph.tulane.edu/sbps/alessandra-bazzano
+- name: Caryn Bell
+  desc: Assistant Professor of Social, Behavioral &  Population Sciences
+  interests: structural racism, racial inequities,  spatial statistics
+  img: ../img/bell.jpg
+  website: https://sph.tulane.edu/sbps/caryn-bell-phd
+  twitter: https://twitter.com/dr_carynbell
+pis2:
+- name: Andrea Boyles
+  desc: Associate Professor of Sociology and Africana Studies
+  interests: criminology; race and intersectionality;  inequality; police-citizen relations; resistance and tech/AI critic 
+  img: https://img1.wsimg.com/isteam/ip/fcec8a25-71df-47b3-98e4-d8e61622c659/Personal%20website%20version%20Edited%20Andrea-9c82e29.jpg/:/rs=w:1280,h:1432
+  website: https://drandreasboyles.com/
+  twitter: https://twitter.com/DrAndreaSBoyles
+- name: Patrick Button
+  desc: Associate Professor of Economics
+  interests: discrimination in employment, banking, health care
+  img: ../img/button.jpg
+  website: https://www.patrickbutton.com/
+  twitter: https://twitter.com/ProfPButton
+- name: Nicholas Mattei
+  desc: Assistant Professor of Computer Science.
+  interests: ethical AI, machine-augmented group decision making
+  img: ../img/mattei.jpg
+  website: https://www.nickmattei.net/
