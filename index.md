@@ -4,7 +4,7 @@ title: Tulane University Center for Community-Engaged Artificial Intelligence
 subtitle: TU:CEAI
 published: true
 ---
-<p style="text-align:center;"><img src="{{ 'img/tulogo.png' | relative_url }}"/></p>
+<p style="text-align:center;"><img width="50%" src="{{ 'img/tulogo.png' | relative_url }}"/></p>
 
 Artificial intelligence holds the potential to benefit society in numerous areas, including health, the economy, education, and public safety. However, ensuring that the benefits of AI are shared equitably among society and reducing any potential harmful effects is of critical importance given (i) the concentration of technical capacities into the hands of a few, often highly educated practitioners;  (ii) long-standing socio-technical challenges of algorithmic discrimination, transparency, and accountability that underpin all AI systems; leading to (iii) a pervasive mistrust of AI technology by the public. New Orleans provides evidence of this tension --- early, controversial tech-driven policing programs here were met with grassroots resistance, leading to ordinances restricting surveillance (e.g., facial recognition and predictive policing). Across the country, there is a growing tech backlash concerned that AI may exacerbate existing disparities, widen the digital divide, or otherwise result in a less just society. In response, the scientific community has increasingly prioritized research into socio-technical systems that promote fair and trustworthy AI systems (e.g., NSF's program on Fairness in AI; IBM's AI Fairness 360 Toolkit, etc.).
 
